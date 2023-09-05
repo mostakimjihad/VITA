@@ -29,7 +29,6 @@ If it does not work
 
 ## Authors
 
-Contributors names and contact info
 Mostakim Jihad  
 mostakimjihad652001@gmail.com
 
